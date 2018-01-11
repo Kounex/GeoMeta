@@ -1,0 +1,4 @@
+D:\Documents\Uni-Stuff\Bachelor Stuff\GeoMeta\UWP\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+D:\Documents\Uni-Stuff\Bachelor Stuff\GeoMeta\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+D:\Documents\Uni-Stuff\Bachelor Stuff\GeoMeta\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+D:\Documents\Uni-Stuff\Bachelor Stuff\GeoMeta\UWP\GeoMeta\GeoMeta.csproj;x86

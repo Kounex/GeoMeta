@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>GeoMeta</UnityWSASolutionName>
+        <UnityWSASolutionDir>D:\Documents\Uni-Stuff\Bachelor Stuff\GeoMeta\UWP\</UnityWSASolutionDir>
+        <UnityProjectDir>D:\Documents\Uni-Stuff\Bachelor Stuff\GeoMeta\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity_BA\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

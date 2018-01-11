@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GeoMetaScene.unity
+    guid: 4cdd4a007b067d647899e8ea32cf5d5a
+  - enabled: 1
+    path: Assets/Scenes/CubeScene.unity
+    guid: e2b68d2a66046ff47880d36492fb0468
